@@ -1,8 +1,8 @@
 ## Bienvenidos a Indexando
 
-You can use the [editor on GitHub](https://github.com/plato1111/indexando/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aquí voy a estar compartiendo los enclaces a los proyectos en los cuales estoy trabajando. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(https://github.com/plato1111/indexando/edit/gh-pages/index.md) 
 
 ### Markdown
 
